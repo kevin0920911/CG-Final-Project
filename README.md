@@ -1,5 +1,4 @@
 # Computer Graphics Final Project
-**本文檔使用markdown格式撰寫，建議使用markdown檢視器，會有更好的體驗**
 ## Introduction
 本程式使用OpenGL實現一個太空船遊戲，遊戲初始如下
 - 生命值: 3
