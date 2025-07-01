@@ -1,4 +1,6 @@
 # Computer Graphics Final Project
+## Demo 影片
+[![](https://img.youtube.com/vi/OSIZY8lBMFU/default.jpg)](https://www.youtube.com/watch?v=OSIZY8lBMFU)
 ## Introduction
 本程式使用OpenGL實現一個太空船遊戲，遊戲初始如下
 - 生命值: 3
